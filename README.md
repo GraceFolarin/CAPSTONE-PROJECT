@@ -1,4 +1,4 @@
-### Project Title: CAPSTONE PROJECT
+![IMG_20241105_184134](https://github.com/user-attachments/assets/59d315ce-3fb6-4b24-8deb-a7c020fb9bee)### Project Title: CAPSTONE PROJECT
 
 ### Project Overview
 This Data Analysis project aims to generate insight into the sales performance of the economic project over the past year. By analyzing the various parameters received in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight given and to know the best performance from our data.
@@ -26,4 +26,6 @@ EDA involved the exploring to answer the questions such as ;
 - What is the total sales by product?
 - What is the total sales by region?
 - What is the total sales by month?
+![IMG_20241105_183958](https://github.com/user-attachments/assets/b13f8851-6b63-42f4-8b4f-ea201b250cd4)
+![IMG_20241105_184134](https://github.com/user-attachments/assets/3cb64e18-3821-41ee-91d4-4a28386d18d5)
 
