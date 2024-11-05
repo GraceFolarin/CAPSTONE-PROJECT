@@ -25,5 +25,5 @@ Data cleaning and formatting
 EDA involved the exploring to answer the questions such as ;
 - What is the total sales by product?
 - What is the total sales by region?
-- What is the total sales by month
+- What is the total sales by month?
 
