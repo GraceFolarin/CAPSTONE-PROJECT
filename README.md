@@ -28,5 +28,6 @@ EDA involved the exploring to answer the questions such as ;
 ### Data Analysis
 ![Revenue by region](https://github.com/user-attachments/assets/c955156f-cf72-4de5-8263-479f5ae150c4)
 ![Quantity sold by  region](https://github.com/user-attachments/assets/960ced9b-934b-4497-9449-9dae4b2aedf0)
-![Saes per product](h![Month](https://github.com/user-attachments/assets/5c97dccb-0790-4c95-ae05-0e94a6fe9fa7)
+![Saes per product](https://github.com/user-attachments/assets/e10f0aa7-4501-4699-961a-011c744c61c1)
+![Month](https://github.com/user-attachments/assets/39963a5c-0ef3-41e6-a3b9-50c728bbb8c2)
 
