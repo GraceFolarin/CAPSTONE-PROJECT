@@ -24,6 +24,9 @@ EDA involved the exploring to answer the questions such as ;
 - What is the total sales by product?
 - What is the total sales by region?
 - What is the total sales by month?
-![IMG_20241105_183958](https://github.com/user-attachments/assets/b13f8851-6b63-42f4-8b4f-ea201b250cd4)
-![IMG_20241105_184134](https://github.com/user-attachments/assets/3cb64e18-3821-41ee-91d4-4a28386d18d5)
+
+### Data Analysis
+![Revenue by region](https://github.com/user-attachments/assets/c955156f-cf72-4de5-8263-479f5ae150c4)
+![Quantity sold by  region](https://github.com/user-attachments/assets/960ced9b-934b-4497-9449-9dae4b2aedf0)
+![Saes per product](h![Month](https://github.com/user-attachments/assets/5c97dccb-0790-4c95-ae05-0e94a6fe9fa7)
 
