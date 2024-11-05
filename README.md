@@ -1,5 +1,3 @@
-![IMG_20241105_184134](https://github.com/user-attachments/assets/59d315ce-3fb6-4b24-8deb-a7c020fb9bee)### Project Title: CAPSTONE PROJECT
-
 ### Project Overview
 This Data Analysis project aims to generate insight into the sales performance of the economic project over the past year. By analyzing the various parameters received in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight given and to know the best performance from our data.
 
