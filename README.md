@@ -15,9 +15,9 @@ The primary source of data used here is Data sale csv and is an open source data
 
 ### Data cleaning and Preparations. 
 In the initial phase of the Data cleaning and preparations, we perform the following actions :
-1.Data loading and inspection
-2.Handling missing variable
-Data cleaning and formatting
+-1 Data loading and inspection
+-2 Handling missing variable
+-3 Data cleaning and formatting
 
 ### Exploratory Data Analysis
 EDA involved the exploring to answer the questions such as ;
@@ -45,7 +45,8 @@ d lowest sales.
 
 ### SALES REPORT
 - Sales by product chart
-![Upl![R from product chart](https://github.com/user-attachments/assets/aadda4de-7483-4775-882a-5601af9378f9)
+![R from product chart](https://github.com/user-attachments/assets/aadda4de-7483-4775-882a-5601af9378f9)
 - Quantity sold chart
 ![Quantity by r chart](https://github.com/user-attachments/assets/8c881237-a9f1-4071-9ef0-5faea71477d9)
+- Revenue by region chart
 ![R by R chart](https://github.com/user-attachments/assets/18b70f30-3988-40cb-b904-e71e0d9c2fce)
