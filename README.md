@@ -48,4 +48,4 @@ d lowest sales.
 ![Upl![R from product chart](https://github.com/user-attachments/assets/aadda4de-7483-4775-882a-5601af9378f9)
 - Quantity sold chart
 ![Quantity by r chart](https://github.com/user-attachments/assets/8c881237-a9f1-4071-9ef0-5faea71477d9)
-[R by R chart](https://github.com/user-attachments/assets/18b70f30-3988-40cb-b904-e71e0d9c2fce)
+![R by R chart](https://github.com/user-attachments/assets/18b70f30-3988-40cb-b904-e71e0d9c2fce)
