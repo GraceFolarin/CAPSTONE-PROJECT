@@ -1,4 +1,4 @@
-![SLICER](https://github.com/user-attachments/assets/dd63807b-ec25-488a-a3f9-912eed10ef60)### Project Overview
+### Project Overview
 This Data Analysis project aims to generate insight into the sales performance of the economic project over the past year. By analyzing the various parameters received in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight given and to know the best performance from our data.
 
 ### Data Soures
